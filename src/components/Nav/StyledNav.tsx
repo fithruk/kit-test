@@ -3,7 +3,7 @@ const StyledHeader = styled('header')`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 70px 30vw 70px 20px;
+  padding: 70px 30vw 0 20px;
 `;
 
 const StyledNav = styled('nav')``;
