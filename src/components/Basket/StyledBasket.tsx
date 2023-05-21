@@ -5,7 +5,7 @@ const BasketWrapper = styled('div')`
   top: 100%;
   background-color: #e61949;
   border-radius: 39px;
-  width: 500px;
+  width: 30vw;
   padding: 30px;
 `;
 
